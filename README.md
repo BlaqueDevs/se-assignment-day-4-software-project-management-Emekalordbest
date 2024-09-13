@@ -3,14 +3,30 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 a. delay can damage relationship with client
-b. extending project timelinescan increase costdue to extended resources.
+b. extending project timelines can increase costdue to extended resources.
 Managers can do so by; - ensuring the right people with the right skills are assigned to tasks.
 -Defining clear objectives from the start.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 a. Effective cost control helps avoid overspending which could lead to financial strain.
 b. it helps in optimal use of resources.
+Strategies include; - Ensure all project requirements are thoroughly defined.
+-Divide project into smaller tasks associated with cost increase estimate.
+-Engage technical experts to validate estimates.
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile Advantages;
+i. Flexibility and adaptability as it supports continous feedback.
+ii. Faster delivery of functional features.
+iii.It fosters collaboration and accountability within the team.
+Disadvantages;
+i. uncertainty of final outcome or budget of the project.
+ii. it demands constant collaboration and commitment between teams and stakeholders.
+
+Waterfall Advantages;
+i. Easy ro understand and manage as it follows a sequential and linear procss.
+ii. Good for fixed-requirement projects
+iii. it ensures the final product is fully tested before delivery. 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
